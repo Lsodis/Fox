@@ -1,0 +1,15 @@
+E:\Fox\bin\Debug\net6.0\Fox.exe
+E:\Fox\bin\Debug\net6.0\Fox.deps.json
+E:\Fox\bin\Debug\net6.0\Fox.runtimeconfig.json
+E:\Fox\bin\Debug\net6.0\Fox.dll
+E:\Fox\bin\Debug\net6.0\Fox.pdb
+E:\Fox\obj\Debug\net6.0\Fox.csproj.AssemblyReference.cache
+E:\Fox\obj\Debug\net6.0\Fox.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fox\obj\Debug\net6.0\Fox.AssemblyInfoInputs.cache
+E:\Fox\obj\Debug\net6.0\Fox.AssemblyInfo.cs
+E:\Fox\obj\Debug\net6.0\Fox.csproj.CoreCompileInputs.cache
+E:\Fox\obj\Debug\net6.0\Fox.dll
+E:\Fox\obj\Debug\net6.0\refint\Fox.dll
+E:\Fox\obj\Debug\net6.0\Fox.pdb
+E:\Fox\obj\Debug\net6.0\Fox.genruntimeconfig.cache
+E:\Fox\obj\Debug\net6.0\ref\Fox.dll
